@@ -14,7 +14,7 @@
         "es": "¿Ha sido diagnosticado con alguna de las siguientes enfermedades?"
     },
     "responseOptions": {
-        "multipleChoice": false,
+        "multipleChoice": true,
         "choices": [
             {
                 "value": 1,
@@ -93,19 +93,7 @@
 
                 }}
         ]
-    },
-    "ui": {
-        "inputType": "checkbox"
-    },
-    "question": {
-        "en": "Other",
-        "es": "Otro"
-
-    },
-    "ui": {
-        "inputType": "text"
     }
-
 }
 
 
