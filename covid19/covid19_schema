@@ -20,14 +20,14 @@
     ],
     "ui": {
         "order": [
-            "email",
-            "yob",
-            "share_data",
             "covid19_clinical_history",
             "smoking_history",
             "covid19_status",
             "covid19_symptoms",
-            "fever"
+            "fever",
+            "email",
+            "yob",
+            "share_data"
         ],
         "shuffle": false
     }
