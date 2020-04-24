@@ -9,7 +9,7 @@
     "schema:description": "COVID-19 diagnosis and suspicion status",
     "schema:schemaVersion": "0.0.1",
     "schema:version": "0.0.1",
-    "preamble": {
+    "question": {
         "en": "What is your current status?",
         "es": "¿Cuál es tu estado actual?"
     },
@@ -78,5 +78,49 @@
     },
     "ui": {
         "inputType": "radio"
+    },
+    "question": {
+        "en": "Days since most recent diagnosis of COVID-19",
+        "es": "Cantidad de días desde el diagnóstico más reciente de COVID-19"
+        },
+    "ui": {
+        "inputType": "text"
     }
 }
+
+
+
+
+
+```
+    "question": { [
+        "en": "What is your current status?",
+        "es": "¿Cuál es tu estado actual?"
+    },
+    "responseOptions": {
+        "multipleChoice": true,
+        "choices": []
+    },
+    "ui": {
+        "inputType": [
+    },
+    "question": {
+        "en": "Were you diagnosed with COVID-19?",
+        "es": "¿Fuiste diagnosticado con COVID-19?"
+    },
+    "responseOptions": {
+        "multipleChoice": true,
+        "choices": []
+    },
+    "ui": {
+        "inputType": "multipart"
+    },
+    "question": {
+        "en": "Days since most recent diagnosis of COVID-19",
+        "es": "Cantidad de días desde el diagnóstico más reciente de COVID-19"
+        },
+    "ui": {
+        "inputType": "multipart"
+    }
+}
+```
