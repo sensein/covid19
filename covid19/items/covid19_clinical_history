@@ -95,14 +95,6 @@
     },
     "ui": {
         "inputType": "radio"
-    },
-    "question": {
-        "en": "Other",
-        "es": "Otro"
-
-    },
-    "ui": {
-        "inputType": "text"
     }
 }
 
