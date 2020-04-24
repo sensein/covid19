@@ -1,5 +1,6 @@
 {
-    "@context": [ "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    "@context": [ "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
+    "https://raw.githubusercontent.com/danielmlow/covid19/master/covid19/covid19_context"
     ],
     "@type": "reproschema:Field",
     "@id": "covid19_symptoms",
@@ -33,7 +34,7 @@
     },
     "ui": {
         "inputType": "radio"
-    },
+    }
     }
 }
 

@@ -1,5 +1,6 @@
 {
-    "@context": [ "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    "@context": [ "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
+    "https://raw.githubusercontent.com/danielmlow/covid19/master/covid19/covid19_context"
     ],
     "@type": "reproschema:Field",
     "@id": "covid19_status",
@@ -10,57 +11,54 @@
     "schema:version": "0.0.1",
     "question": {
         "en": "What is your current status?",
-        "es": "¿Cuál es tu estado actual?",
+        "es": "¿Cuál es tu estado actual?"
     },
     "responseOptions": {
-        "multipleChoice": false,
+        "multipleChoice": true,
         "choices": [
             {
                 "value": 1,
                 "name": {
                     "en": "I was never tested for COVID-19: I suspect I had COVID-19 in the past",
                     "es": "Nunca fui testeado para COVID-19: sospecho que lo tuve en el pasado"
-                }
-            },
+                }},
             {
                 "value": 2,
                 "name": {
                     "en": "I was never tested for COVID-19: I suspect I have COVID-19 now",
                     "es": "Nunca fui testeado para COVID-19: sospecho que tengo COVID-19 ahora"
-                }
-            },
+                }},
             {
                 "value": 3,
                 "name": {
                     "en": "I was never tested for COVID-19: I do not think I ever had it",
                     "es": "Nunca fui testeado para COVID-19: no creo que lo haya tenido"
-                }
-            },
+                }},
             {
                 "value": 4,
                 "name": {
                     "en": "I was tested for COVID-19: I was diagnosed with COVID-19",
                     "es": "Fui testeado por COVID-19: Fui diagnosticado con COVID-19"
 
-                },
+                }},
             {
                 "value": 5,
                 "name": {
                     "en": "I was tested for COVID-19: didn't have COVID-19",
                     "es": "I was tested for COVID-19: no tuve COVID-19"
 
-                }
+                }}
         ]
     },
     "ui": {
         "inputType": "radio"
     },
-    "preamble": {
+    "question": {
         "en": "Were you diagnosed with COVID-19?",
-        "es": "¿Fuiste diagnosticado con COVID-19?",
+        "es": "¿Fuiste diagnosticado con COVID-19?"
     },
     "responseOptions": {
-        "multipleChoice": false,
+        "multipleChoice": true,
         "choices": [
             {
                 "value": 1,
@@ -84,6 +82,7 @@
     "question": {
         "en": "Days since most recent diagnosis of COVID-19",
         "es": "Cantidad de días desde el diagnóstico más reciente de COVID-19"
+        },
     "ui": {
         "inputType": "text"
     }
