@@ -1,0 +1,49 @@
+{
+    "@context": [ "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "covid19_symptoms",
+    "skos:prefLabel": "Covid19 Symptoms",
+    "skos:altLabel": "covid19 symptoms",
+    "schema:description": "Respiratory disease symptoms with focus on COVID19 symptoms",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "question": {
+    "en": "Current fever or highest fever if were diagnosed",
+    "es": "Fiebre actual o fiebre más alta si fuiste diagnósticado)a="
+    },
+    "responseOptions": {
+        "multipleChoice": false,
+        "choices": [
+            {
+                "value": 1,
+                "name": {
+                    "en": "Fahrenheit",
+                    "es": "Fahrenheit"
+                }
+            },
+            {
+                "value": 2,
+                "name": {
+                    "en": "Celcius",
+                    "es": "Celcius"
+
+                }
+        ]
+    },
+    "ui": {
+        "inputType": "radio"
+    },
+    }
+}
+
+
+
+
+
+
+
+
+
+
+

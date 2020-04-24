@@ -11,13 +11,23 @@
     "variableMap": [
         {"variableName": "share_data", "isAbout": "share_data"},
         {"variableName": "email", "isAbout": "email"},
-        {"variableName": "yob", "isAbout": "yob"}
+        {"variableName": "yob", "isAbout": "yob"},
+        {"variableName": "covid19_clinical_history", "isAbout": "covid19_clinical_history"},
+        {"variableName": "smoking_history", "isAbout": "smoking_history"},
+        {"variableName": "covid19_status", "isAbout": "covid19_status"},
+        {"variableName": "covid19_symptoms", "isAbout": "covid19_symptoms"},
+        {"variableName": "fever", "isAbout": "fever"}
     ],
     "ui": {
         "order": [
             "email",
             "yob",
-            "share_data"
+            "share_data",
+            "covid19_clinical_history",
+            "smoking_history",
+            "covid19_status",
+            "covid19_symptoms",
+            "fever",
         ],
         "shuffle": false
     }

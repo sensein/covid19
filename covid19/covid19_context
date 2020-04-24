@@ -15,7 +15,27 @@
         "yob": {
             "@id": "nda:yearOfBirth",
             "@type": "@id"
-        }
+        },
+        "covid19_clinical_history": {
+            "@id": "covid19:covid19_clinical_history",
+            "@type": "@id"
+        },
+        "smoking_history": {
+            "@id": "covid19:smoking_history",
+            "@type": "@id"
+        },
+        "covid19_status": {
+            "@id": "covid19:covid19_status",
+            "@type": "@id"
+        },
+        "covid19_symptoms": {
+            "@id": "covid19:covid19_symptoms",
+            "@type": "@id"
+        },
+        "fever": {
+            "@id": "covid19:fever",
+            "@type": "@id"
+        },
     }
 }
 
