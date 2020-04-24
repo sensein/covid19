@@ -104,6 +104,9 @@
         "en": "Other",
         "es": "Otro"
 
+    },
+    "ui": {
+        "inputType": "text"
     }
 }
 
