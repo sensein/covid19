@@ -25,6 +25,7 @@
                     "es": "Fumaba antes"
 
                 },
+            },
             {
                 "value": 3,
                 "name": {
@@ -37,7 +38,6 @@
     },
     "ui": {
         "inputType": "radio"
-    }
     }
 }
 
