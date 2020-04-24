@@ -93,6 +93,9 @@
 
                 }}
         ]
+    },
+    "ui": {
+        "inputType": "checkbox"
     }
 }
 
