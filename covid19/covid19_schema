@@ -27,7 +27,7 @@
             "smoking_history",
             "covid19_status",
             "covid19_symptoms",
-            "fever",
+            "fever"
         ],
         "shuffle": false
     }
