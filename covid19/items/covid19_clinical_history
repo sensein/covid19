@@ -20,15 +20,14 @@
                 "name": {
                     "en": "Diabetes",
                     "es": "Diabetes"
-                }
-            },
+                }},
             {
                 "value": 2,
                 "name": {
                     "en": "Hypertension",
                     "es": "Hipertension"
 
-                }
+                }},
             {
                 "value": 3,
                 "name": {
