@@ -29,7 +29,7 @@
             "covid19_symptoms",
             "fever"
         ],
-        "shuffle": false
+    "shuffle": false
     }
 }
 
