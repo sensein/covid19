@@ -98,7 +98,7 @@
         ]
     },
     "ui": {
-        "inputType": "checkbox"
+        "inputType": "radio"
     },
     "question": {
         "en": "Other",
