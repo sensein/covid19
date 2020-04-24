@@ -10,7 +10,7 @@
     "schema:version": "0.0.1",
     "preamble": {
         "en": "Have you been diagnosed with any of the following conditions?",
-        "es": "¿Ha sido diagnosticado con alguna de las siguientes enfermedades?",
+        "es": "¿Ha sido diagnosticado con alguna de las siguientes enfermedades?"
     },
     "responseOptions": {
         "multipleChoice": true,
