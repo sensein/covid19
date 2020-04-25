@@ -9,7 +9,7 @@
     "schema:description": "COVID-19 diagnosis and suspicion status",
     "schema:schemaVersion": "0.0.1",
     "schema:version": "0.0.1",
-    "preamble": {
+    "question": {
         "en": "What is your current status?",
         "es": "¿Cuál es tu estado actual?"
     },
@@ -49,32 +49,6 @@
 
                 }}
         ]
-    },
-    "ui": {
-        "inputType": "radio"
-    },
-    "question": {
-        "en": "Were you diagnosed with COVID-19?",
-        "es": "¿Fuiste diagnosticado con COVID-19?"
-    },
-    "responseOptions": {
-        "multipleChoice": true,
-        "choices": [
-            {
-                "value": 1,
-                "name": {
-                    "en": "Yes",
-                    "es": "Sí"
-                }
-            },
-            {
-                "value": 2,
-                "name": {
-                    "en": "No",
-                    "es": "No"
-                }
-            }
-         ]
     },
     "ui": {
         "inputType": "radio"

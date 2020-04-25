@@ -29,12 +29,11 @@
                     "en": "Celcius",
                     "es": "Celcius"
 
-                }
+                }}
         ]
     },
     "ui": {
         "inputType": "radio"
-    }
     }
 }
 

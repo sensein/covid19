@@ -17,24 +17,21 @@
                 "name": {
                     "en": "I currently smoke",
                     "es": "Fumo actualmente"
-                }
-            },
+                }},
             {
                 "value": 2,
                 "name": {
                     "en": "I used to smoke",
                     "es": "Fumaba antes"
 
-                },
-            },
+                }},
             {
                 "value": 3,
                 "name": {
                     "en": "I have never smoked",
                     "es": "Nunca fumé"
 
-                }
-            }
+                }}
         ]
     },
     "ui": {
