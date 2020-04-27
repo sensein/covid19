@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6d5a792a-3aac-4867-8e4e-3cc16a5af4dc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/protocol/Covid19_context" beforeDir="false" afterPath="$PROJECT_DIR$/protocol/Covid19_context" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/protocol/Covid19_schema" beforeDir="false" afterPath="$PROJECT_DIR$/protocol/Covid19_schema" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/covid19/covid19_context" beforeDir="false" afterPath="$PROJECT_DIR$/covid19/covid19_context" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,7 +15,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/covid19/covid19_schema">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="214">
+            <state relative-caret-position="510">
               <caret line="34" column="5" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
             </state>
           </provider>
@@ -32,11 +30,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/protocol/Covid19_context">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
-              <caret line="6" column="64" selection-start-line="6" selection-start-column="64" selection-end-line="6" selection-end-column="64" />
+              <caret line="6" column="54" lean-forward="true" selection-start-line="6" selection-start-column="54" selection-end-line="6" selection-end-column="64" />
             </state>
           </provider>
         </entry>
@@ -53,7 +51,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/protocol/Covid19_schema">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
+            <state relative-caret-position="-56">
               <caret line="10" column="62" selection-start-line="10" selection-start-column="62" selection-end-line="10" selection-end-column="62" />
             </state>
           </provider>
@@ -78,11 +76,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/covid19/covid19_context">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="61" selection-start-line="5" selection-start-column="61" selection-end-line="5" selection-end-column="61" />
+            <state relative-caret-position="-371">
+              <caret line="5" column="64" selection-start-line="5" selection-start-column="64" selection-end-line="5" selection-end-column="64" />
             </state>
           </provider>
         </entry>
@@ -115,7 +113,6 @@
       <list>
         <option value="$USER_HOME$/Desktop/ejercicios.py" />
         <option value="$PROJECT_DIR$/covid19/items/smoking_history" />
-        <option value="$PROJECT_DIR$/covid19/covid19_context" />
         <option value="$PROJECT_DIR$/covid19/items/covid19_clinical_history" />
         <option value="$PROJECT_DIR$/covid19/items/covid19_days" />
         <option value="$PROJECT_DIR$/covid19/items/covid19_diagnosis" />
@@ -127,6 +124,7 @@
         <option value="$PROJECT_DIR$/covid19/covid19_schema" />
         <option value="$PROJECT_DIR$/protocol/Covid19_schema" />
         <option value="$PROJECT_DIR$/protocol/Covid19_context" />
+        <option value="$PROJECT_DIR$/covid19/covid19_context" />
       </list>
     </option>
   </component>
@@ -427,20 +425,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/covid19/covid19_schema">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="34" column="5" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/covid19/covid19_context">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="61" selection-start-line="5" selection-start-column="61" selection-end-line="5" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/voice_opt/voice_schema">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -449,7 +433,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/protocol/Covid19_schema">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
+        <state relative-caret-position="-56">
           <caret line="10" column="62" selection-start-line="10" selection-start-column="62" selection-end-line="10" selection-end-column="62" />
         </state>
       </provider>
@@ -457,7 +441,21 @@
     <entry file="file://$PROJECT_DIR$/protocol/Covid19_context">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="6" column="64" selection-start-line="6" selection-start-column="64" selection-end-line="6" selection-end-column="64" />
+          <caret line="6" column="54" lean-forward="true" selection-start-line="6" selection-start-column="54" selection-end-line="6" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/covid19/covid19_schema">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="5" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/covid19/covid19_context">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-371">
+          <caret line="5" column="64" selection-start-line="5" selection-start-column="64" selection-end-line="5" selection-end-column="64" />
         </state>
       </provider>
     </entry>
