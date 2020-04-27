@@ -9,7 +9,7 @@
     "schema:description": "COVID-19 diagnosis",
     "schema:schemaVersion": "0.0.1",
     "schema:version": "0.0.1",
-    "preamble": {
+    "question": {
         "en": "Were you diagnosed with COVID-19?",
         "es": "¿Fuiste diagnosticado con COVID-19?"
     },
