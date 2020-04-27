@@ -23,6 +23,8 @@
             "covid19_clinical_history",
             "smoking_history",
             "covid19_status",
+            "covid19_diagnosis",
+            "covid19_days",
             "covid19_symptoms",
             "fever",
             "email",

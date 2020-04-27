@@ -28,6 +28,14 @@
             "@id": "covid19:covid19_status",
             "@type": "@id"
         },
+        "covid19_diagnosis": {
+            "@id": "covid19:covid19_diagnosis",
+            "@type": "@id"
+        },
+        "covid19_days": {
+            "@id": "covid19:covid19_days",
+            "@type": "@id"
+        },
         "covid19_symptoms": {
             "@id": "covid19:covid19_symptoms",
             "@type": "@id"

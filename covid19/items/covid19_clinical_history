@@ -95,7 +95,7 @@
         ]
     },
     "ui": {
-        "inputType": "checkboxes"
+        "inputType": "radio"
     }
 }
 
