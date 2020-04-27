@@ -12,7 +12,7 @@
     "question": {
         "en": "Do you smoke?",
         "es": "¿Fuma?"
-    }
+    },
     "responseOptions": {
         "multipleChoice": true,
         "choices": [
