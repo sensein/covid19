@@ -10,8 +10,8 @@
     "schema:schemaVersion": "0.0.1",
     "schema:version": "0.0.1",
     "question": {
-        "en": "Current temperature or if you had COVID-19, highest fever before diagnosis.",
-        "es": "Fiebre actual o fiebre más alta si fuiste diagnósticado(a)"
+        "en": "Current temperature. If you had COVID-19, highest fever before diagnosis.",
+        "es": "Fiebre actual. Si tuvo COVID-19, indique la fiebre más alta antes del diagnóstico."
         },
     "ui": {
         "inputType": "text"

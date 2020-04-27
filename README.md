@@ -10,8 +10,8 @@ Activities (tasks):
 * voice_opt
 
 
-Test individual files here: https://jsonlint.com/
+Test individual files here: ```https://jsonlint.com/```
 
-Test protocol: https://schema.repronim.org/ui/#/?url=https://raw.githubusercontent.com/sensein/covid19/master/protocol/Covid19_schema
+Test protocol: ```https://schema.repronim.org/ui/#/?url=https://raw.githubusercontent.com/sensein/covid19/master/protocol/Covid19_schema```
 
-the url is available in protocol/Covid19_schema and replace "context" with "schema"
+the url is available in ```protocol/Covid19_schema``` and replace `context` with `schema` as done above
