@@ -52,6 +52,7 @@
         {"variableName": "covid19_status_tested", "isVis": "covid19_status === 2"},
         {"variableName": "covid19_symptoms_positive", "isVis": "covid19_status_tested === 1"},
         {"variableName": "covid19_symptoms_negative", "isVis": "covid19_status_tested === 2"},
+        {"variableName": "covid19_symptoms_negative", "isVis": "covid19_status === 1"},
         {"variableName": "fever_positive", "isVis": "covid19_status_tested === 1"},
         {"variableName": "fever_negative", "isVis": "covid19_status_tested === 2"},
         {"variableName": "fever_c_or_f", "isVis": true}
