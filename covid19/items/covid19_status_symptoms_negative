@@ -3,14 +3,14 @@
     ],
     "@type": "reproschema:Field",
     "@id": "covid19_symptoms",
-    "skos:prefLabel": "Covid19 Symptoms",
-    "skos:altLabel": "covid19 symptoms",
-    "schema:description": "Respiratory disease symptoms with focus on COVID19 symptoms",
+    "skos:prefLabel": "Covid19 Symptoms - negative",
+    "skos:altLabel": "covid19 symptoms negative",
+    "schema:description": "Respiratory disease symptoms with focus on COVID19 symptoms - negative",
     "schema:schemaVersion": "0.0.1",
     "schema:version": "0.0.1",
     "question": {
-        "en": "Are you currently experiencing any of the following symptoms? If you were already diagnosed with COVID-19, check the symptoms you had before being tested.",
-        "es": "¿Está experimentando alguno de los siguientes síntomas? Si ya fue diagnosticado con COVID-19, indique los síntomas que tuvo antes de ser testeado(a)."
+        "en": "Are you currently experiencing any of the following symptoms?",
+        "es": "¿Está experimentando alguno de los siguientes síntomas?"
     },
     "responseOptions": {
         "multipleChoice": true,
