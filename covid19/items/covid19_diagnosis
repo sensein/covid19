@@ -13,7 +13,7 @@
         "es": "¿Fuiste diagnosticado con COVID-19?"
     },
     "responseOptions": {
-        "multipleChoice": true,
+        "multipleChoice": false,
         "choices": [
             {
                 "value": 1,
