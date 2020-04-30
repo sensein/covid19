@@ -13,7 +13,7 @@
         "es": "¿Cuál es tu estado actual?"
     },
     "responseOptions": {
-        "multipleChoice": true,
+        "multipleChoice": false,
         "choices": [
             {
                 "value": 1,
