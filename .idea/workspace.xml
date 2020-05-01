@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6d5a792a-3aac-4867-8e4e-3cc16a5af4dc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/covid19/items/covid19_status_notTested" beforeDir="false" afterPath="$PROJECT_DIR$/covid19/items/covid19_status_notTested" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/covid19/items/covid19_status_tested" beforeDir="false" afterPath="$PROJECT_DIR$/covid19/items/covid19_status_tested" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/covid19/items/fever_c_or_f" beforeDir="false" afterPath="$PROJECT_DIR$/covid19/items/fever_c_or_f" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/covid19/covid19_schema" beforeDir="false" afterPath="$PROJECT_DIR$/covid19/covid19_schema" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,33 +14,15 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/covid19/items/covid19_status">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="191">
-              <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/covid19/items/fever_c_or_f">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="139">
-              <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/covid19/items/covid19_diagnosis">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="93">
+            <state relative-caret-position="225">
               <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/covid19/items/smoking_history">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="73">
@@ -51,9 +32,27 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/covid19/covid19_context">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-701">
+              <caret line="3" column="22" selection-start-line="3" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/covid19/covid19_schema">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="121">
+              <caret line="26" column="18" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/covid19/items/covid19_status_notTested">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="27">
+            <state relative-caret-position="225">
               <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
             </state>
           </provider>
@@ -71,8 +70,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/covid19/items/covid19_status_symptoms_negative">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="15" column="30" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="30" />
+            <state relative-caret-position="225">
+              <caret line="15" column="30" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -138,7 +137,6 @@
         <option value="$PROJECT_DIR$/covid19/items/fever" />
         <option value="$PROJECT_DIR$/covid19/covid19_context" />
         <option value="$PROJECT_DIR$/protocol/Covid19_schema" />
-        <option value="$PROJECT_DIR$/covid19/covid19_schema" />
         <option value="$PROJECT_DIR$/covid19/items/covid19_diagnosis" />
         <option value="$PROJECT_DIR$/covid19/items/covid19_status" />
         <option value="$PROJECT_DIR$/covid19/items/smoking_history" />
@@ -146,6 +144,7 @@
         <option value="$PROJECT_DIR$/covid19/items/covid19_status_symptoms_negative" />
         <option value="$PROJECT_DIR$/covid19/items/covid19_status_tested" />
         <option value="$PROJECT_DIR$/covid19/items/fever_c_or_f" />
+        <option value="$PROJECT_DIR$/covid19/covid19_schema" />
       </list>
     </option>
   </component>
@@ -172,6 +171,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -232,7 +232,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -282,7 +281,7 @@
     <frame x="143" y="25" width="1080" height="721" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2785647" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2785647" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -294,7 +293,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Python Console" order="9" visible="true" weight="0.3290938" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="9" visible="true" weight="0.3290938" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -405,13 +404,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/covid19/items/covid19_symptoms" />
     <entry file="file://$PROJECT_DIR$/covid19/items/fever" />
-    <entry file="file://$PROJECT_DIR$/covid19/covid19_schema">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="50" column="26" selection-start-line="50" selection-start-column="26" selection-end-line="50" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/protocol/Covid19_context">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -423,13 +415,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="94" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="94" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/covid19/covid19_context">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="33">
-          <caret line="3" column="22" selection-start-line="3" selection-end-line="4" />
         </state>
       </provider>
     </entry>
@@ -447,42 +432,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/covid19/items/covid19_diagnosis">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="93">
-          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/covid19/items/covid19_status">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/covid19/items/covid19_status_notTested">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/covid19/items/covid19_status_symptoms_negative">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="15" column="30" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/covid19/items/covid19_status_symptoms_positive">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/covid19/items/covid19_status_tested">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
@@ -491,7 +441,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/covid19/items/fever_c_or_f">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
+        <state relative-caret-position="225">
+          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/covid19/items/covid19_diagnosis">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/covid19/items/covid19_status_notTested">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
           <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
         </state>
       </provider>
@@ -503,6 +467,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/covid19/items/covid19_status_symptoms_negative">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="30" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/covid19/items/covid19_status_symptoms_positive">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/covid19/items/fever_positive">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -510,10 +488,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/covid19/items/covid19_status_tested">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/covid19/items/smoking_history">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="73">
           <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/covid19/covid19_context">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-701">
+          <caret line="3" column="22" selection-start-line="3" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/covid19/covid19_schema">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="26" column="18" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
         </state>
       </provider>
     </entry>

@@ -25,7 +25,6 @@
     ],
     "ui": {
         "order": [
-            "email",
             "yob",
             "share_data",
             "covid19_clinical_history",
@@ -38,7 +37,8 @@
             "covid19_symptoms_negative",
             "fever_positive",
             "fever_negative",
-            "fever_c_or_f"
+            "fever_c_or_f",
+            "email",
         ],
         "shuffle": false,
         "visibility": [
