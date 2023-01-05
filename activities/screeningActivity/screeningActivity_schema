@@ -1,0 +1,26 @@
+{
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0-rc4/contexts/generic",
+    "@type": "reproschema:Activity",
+    "@id": "screeningActivity_schema",
+    "prefLabel": "screening activity",
+    "description": "eligibility screening for mumble melody longitudinal study",
+    "preamble": "Welcome to the eligibility screening for the Mumble Melody longitudinal study.",
+    "schemaVersion": "1.0.0-rc4",
+    "version": "0.0.1",
+    "ui": {
+        "addProperties": [
+                {"isAbout": "items/introduction_item",
+                "variableName": "introduction_item",
+                "isVis": true
+                }
+        ],
+        "order": [
+            "items/introduction_item"
+        ],
+        "shuffle": false,
+        "allow": [
+			"reproschema:AutoAdvance",
+			"reproschema:AllowExport"
+		]
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0-rc4/contexts/generic",
+	"@type": "reproschema:Protocol",
+	"@id": "ScreeningProtocol_schema",
+	"prefLabel": {
+		"en": "Screening Session"
+	},
+	"description": "example Protocol",
+	"schemaVersion": "1.0.0-rc4",
+	"version": "0.0.1",
+	"landingPage": [{
+            "@id": "README.md",
+            "inLanguage": "en"
+        }
+    ],
+	"messages": [
+		{
+			"message": "Test message: Triggered when item1 value is greater than 0",
+			"jsExpression": "item1 > 0"
+		}
+	],
+	"ui": {
+	"order": [
+	    "../activities/screeningActivity/screeningActivity_schema"
+        ],
+        "addProperties": [
+	    {"isAbout": "../activities/screeningActivity/screeningActivity_schema",
+	    "variableName": "screeningActivity_schema",
+            "prefLabel": {"en": "Screening Activity" }
+            }
+        ],
+	"allow": [
+            "reproschema:AutoAdvance",
+            "reproschema:AllowExport"
+        ],
+	"shuffle": false
+	}
+}

@@ -1,0 +1,13 @@
+{
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0-rc4/contexts/generic",
+    "@type": "reproschema:Field",
+    "@id": "introduction_item",
+    "prefLabel": "introduction item",
+    "description": "Introduction to Screening Protocol",
+    "schemaVersion": "1.0.0-rc4",
+    "version": "0.0.1",
+    "question": "Thank you very much for participating in our study. We are researchers from MIT working to expand research on audio-based approaches that may help increase fluency for adults who stutter.<br><br>Stuttering affects ~1% of the population worldwide. This condition is characterized by involuntary repetitions, blockages, and prolongations of sound while speaking.<br><br>Studies have found that fluency can be increased for PWS using altered auditory feedback or AAF. Common AAF methods that have been found include playing back one’s own voice fractions of a second after it is spoken -- this is known as “delayed auditory feedback” and altering the pitch of one’s own voice - making it sound lower or higher - this is known as “frequency shifted auditory feedback”. There are commercially available technologies that take advantage of these observations by continuously playing a recording into the ear. These systems, however, are expensive, often do not work long term, and cannot be easily personalized. We are interested in developing an approach that is more user-friendly and effective in the long term.<br><br>Here is how the session will take place today:<br>(1) First, we will ask you a few questions.<br>(2) Next, we will ask you to make sure your environment is set up for the study.<br>(3) Next, we will ask you to do a volume check to ensure recording quality.<br>(4) Next, we will establish your fluency baseline with a series of open questions.<br><br>Please note that we will NOT be keeping recordings from this screening session and will be destroying them for your privacy after evaluating your eligibility.",
+    "ui": {
+        "inputType": "static"
+    }
+}
